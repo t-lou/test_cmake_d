@@ -1,3 +1,6 @@
 project(dep CXX)
 
-add_library(dep dep.cpp)
+add_library(
+    dep_cpp
+    dep.cpp
+)

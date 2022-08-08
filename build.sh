@@ -10,5 +10,3 @@ cd ${PROJ}/build
 cmake -DCMAKE_MODULE_PATH:PATH=${BASE}/cmake-d/cmake-d ..
 
 make -j
-
-cd ${BASE}

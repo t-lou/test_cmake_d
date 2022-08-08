@@ -8,5 +8,7 @@ echo "Second"
 $BASE/Project/build/Module2/beta
 echo "Third"
 $BASE/Project/build/Module3/gamma
-echo "Last"
+echo "Fourth"
 $BASE/Project/build/Module4/delta
+echo "Last"
+$BASE/Project/build/Module5/epsilon
